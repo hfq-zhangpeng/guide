@@ -19,9 +19,9 @@ SaaS组成员需要每天写日报，[日报规范](./【SaaS组日周月报规�
 建议少量、多次进行git提交。
 
 ### 3.git仓库地址
-SaaS[https://github.com/huifenqi/fe-crm-v2.git](https://github.com/huifenqi/fe-crm-v2.git)
+SaaS：[https://github.com/huifenqi/fe-crm-v2.git](https://github.com/huifenqi/fe-crm-v2.git)
 
-crm[https://github.com/huifenqi/fe-crm.git](https://github.com/huifenqi/fe-crm.git)
+crm：[https://github.com/huifenqi/fe-crm.git](https://github.com/huifenqi/fe-crm.git)
 
 crm是SaaS中分离出来的一条业务线，通过js引入。
 
